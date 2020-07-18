@@ -1,4 +1,10 @@
 # todo list
+## submodules
+__(added: 2020-07-18, completed: ...)__
+
+https://git-scm.com/book/en/v2/Git-Tools-Submodules  
+https://git-scm.com/docs/gitmodules  
+
 ## readmes
 __(added: 2020-07-17, completed: ...)__
 
