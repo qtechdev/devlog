@@ -18,6 +18,11 @@ sequence, etc.) each rule can display variuos sets of behaviours
 The complexity of a given automata can be increased by giving each cell more
 than two states and supplying a rule set that takes that into account.
 
+## different rules
+While the rules for the `elementary cellular automata` are based on specific
+configurations, a `totalistic cellular automata` instead focuses on the total
+number of active cells.
+
 ## Conway's Life
 This concept is more well known as John Conway's game of life; a 2D automata
 where the rules for each cell are based on population count rather than a
