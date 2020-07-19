@@ -40,6 +40,11 @@ __(added: 2020-07-17, completed: ...)__
 
 Especially for libraries, but also for programs.
 
+## pkgbuild and aur
+__(added: 2020-07-19, completed: ...)__
+
+https://wiki.archlinux.org/index.php/Creating_packages
+
 ## cross platform code
 __(added: 2020-07-17, completed: ...)__
 
