@@ -1,10 +1,4 @@
 # todo list
-## submodules
-__(added: 2020-07-18, completed: ...)__
-
-https://git-scm.com/book/en/v2/Git-Tools-Submodules  
-https://git-scm.com/docs/gitmodules  
-
 ## readmes
 __(added: 2020-07-17, completed: ...)__
 
@@ -12,7 +6,7 @@ I should add readmes with a unified format:
 - program name
 - short description
 - basic example
-- dependancies
+- dependencies
 
 ## changelogs
 __(added: 2020-07-17, completed: ...)__
@@ -50,3 +44,9 @@ __(added: 2020-07-17, completed: ...)__
 
 I am currently only compiling and testing on Linux. Most of these programs
 should compile for Windows (and Mac?) as is, others may require some changes?
+
+## ~submodules~
+__(added: 2020-07-18, completed: 2020-07-19)__
+
+https://git-scm.com/book/en/v2/Git-Tools-Submodules  
+https://git-scm.com/docs/gitmodules  
