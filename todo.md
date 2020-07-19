@@ -19,6 +19,11 @@ __(added: 2020-07-17, completed: ...)__
 
 Documentation could be helpful
 
+## totalistic cellular automata
+__(added: 2020-07-19, completed: ...)__
+
+https://mathworld.wolfram.com/TotalisticCellularAutomaton.html
+
 ## libraries
 __(added: 2020-07-17, completed: ...)__  
 
