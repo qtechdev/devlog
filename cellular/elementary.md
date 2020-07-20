@@ -19,10 +19,8 @@ as the y axis.
 
 ## initial conditions
 Four initial conditions are available to choose from via keyboard shortcuts:
-- `0`: sets all but the central cell to `1`
 - `1`: sets the central cell to `1`
 - `r`: randomly generates the first generation
-- `a`: alternates between `0` and `1` for each cell
 
 # todo
 - clear texture on reset
