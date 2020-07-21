@@ -12,7 +12,8 @@ forming a 2D texture where the y-axis represents time.
 By altering the initial starting comditions (a single "alive" cell, a random
 sequence, etc.) each rule can display variuos sets of behaviours
 
-[more](elementary)
+[more info](elementary)
+[classifying images](images)
 
 ## multiple states
 The complexity of a given automata can be increased by giving each cell more
