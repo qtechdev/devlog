@@ -19,6 +19,13 @@ __(added: 2020-07-17, completed: ...)__
 
 Documentation could be helpful
 
+## trello
+__(added: 2020-07-22, completed; ...)__
+
+Investigate trello?
+https://trello.com/home
+https://blog.trello.com/github-and-trello-integrate-your-commits
+
 ## totalistic cellular automata
 __(added: 2020-07-19, completed: ...)__
 
