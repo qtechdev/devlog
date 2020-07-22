@@ -82,6 +82,17 @@ additional (optional) particle properties:
 - fade rate
 - colour/texture transformation?
 
+## nes/gameboy graphics
+__(added: 2020-07-22, completed: ...)__
+
+https://www.youtube.com/watch?v=57ibhDU2SAI
+Create a rendering pipeline in the style of nes/gameboy.
+- tiles/sprites
+- colour palettes
+- layers
+
+I would like to write a full emulator at some point.
+
 ## unit tests and performance analysis
 __(added: 2020-07-17, completed: ...)__
 
