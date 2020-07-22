@@ -61,6 +61,8 @@ generator properties
 - duration/count
 - \*particle properties ranges
 
+could add physics to generator, e.g. for smoke grenade?
+
 Each particle will be spawned with properties that are randomly selected within
 the generators specified ranges.
 
