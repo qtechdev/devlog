@@ -34,6 +34,12 @@ I might move the opengl code into a library instead of reusing it so often.
 *Making the code in these libraries as concise and efficient as possible should
 be a goal.*
 
+## lua scripting
+__(added: 2020-07-22, completed: ...)__
+
+Look at integrating lua scripting.
+Demonstrate capabilities via a basic OS where each program is a lua script?
+
 ## unit tests and performance analysis
 __(added: 2020-07-17, completed: ...)__
 
