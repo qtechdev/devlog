@@ -10,7 +10,7 @@ __(added: 2020-07-19, completed: ...)__
 __(added: 2020-07-22, completed: ...)__
 
 Particles (and particle generators) are often used for graphical effects.  
-[more](particle)
+[more](particle.md)
 
 ## snes/gameboy graphics
 __(added: 2020-07-22, completed: ...)__
@@ -20,10 +20,10 @@ Create a rendering pipeline in the style of snes/gameboy.
 
 I would also like to write a full SNES emulator at some point so I should try
 and maintain compatability.  
-[more](snes)
+[more](snes.md)
 
 ## arena shooter
 __(added: 2020-07-23, completed: ...)__
 
 arena shooter / dungeon crawler / roguelike
-[more](arena)
+[more](arena.md)

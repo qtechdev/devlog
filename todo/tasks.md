@@ -8,6 +8,23 @@ I should add readmes with a unified format:
 - basic example
 - dependencies
 
+Progress
+- qtechdev.github.io
+- cellular
+- testing_modules
+- module_greeter
+- opengl
+- qch_meta
+- qchip
+- qch_vm
+- qch_asm
+- qch_dis
+- bmi
+- qsi
+- qfio
+- qxdg
+- weights
+
 ## changelogs
 __(added: 2020-07-17, completed: ...)__
 
