@@ -1,4 +1,4 @@
-# [devlog](qtechdev.github.io) <sup>[*](https://github.com/qtechdev/qtechdev.github.io)</sup>
+# [devlog](https://qtechdev.github.io) <sup>[*](https://github.com/qtechdev/qtechdev.github.io)</sup>
 Here, I will attempt to document some of the thought processes, design
 decisions, and challanges faced while programming.
 
