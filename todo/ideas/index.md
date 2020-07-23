@@ -21,3 +21,9 @@ Create a rendering pipeline in the style of snes/gameboy.
 I would also like to write a full SNES emulator at some point so I should try
 and maintain compatability.  
 [more](snes)
+
+## arena shooter
+__(added: 2020-07-23, completed: ...)__
+
+arena shooter / dungeon crawler / roguelike
+[more](arena)

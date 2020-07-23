@@ -17,7 +17,7 @@ player has a collection of magazines
 - "quick reload" swaps current magazine with first magazine of correct type
 - "slow relaoad" reloads all magazines at a reload station
 
-arena based shooter 
+arena based shooter
 - each level has a set number of and type of enemy spawners
 - enemies will spawn and persue player
 - must kill all enemies to progress to next level
@@ -30,7 +30,3 @@ player can level up/unlock abilities
 - quick swap weapons
 - weapon accuracy
 - better material harvesting
-
-
-
-
