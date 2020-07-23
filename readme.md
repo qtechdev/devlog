@@ -13,7 +13,7 @@ general todo/ideas list
 *Only elementary cellular automata so far, more coming soon.*  
 Coming soon: images and classifications!
 
-## [chip8](/chip8)
+## [chip8](/chip8) <sup>[*](/chip8.md)</sup>
 Chip8 virtual machine and pseudo-assembler.  
 
 ## [particle simulation](/particles)
@@ -22,4 +22,4 @@ A basic particle simulation with collision and physics.
 ## [git submodules](/submodules)
 A brief look at submodules as an alternative to external libraries.
 
-[github]: <https://github.com/qtechdev/qtechdev.github.io/index.md>
+[github]: <https://github.com/qtechdev/qtechdev.github.io/>
