@@ -1,5 +1,10 @@
 # Research
 
+## man pages
+__(added: 2020-07-23, completed: ...)__
+
+https://linux.die.net/man/1/man
+
 ## pkgbuild and aur
 __(added: 2020-07-19, completed: ...)__
 
