@@ -9,7 +9,7 @@ I should add readmes with a unified format:
 - dependencies
 
 Progress
-- qtechdev.github.io
+- ~qtechdev.github.io~
 - cellular
 - testing_modules
 - module_greeter
