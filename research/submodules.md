@@ -1,4 +1,4 @@
-# submodules __(2020-07-19)__
+# submodules
 
 `git submodule` allows for a nested git repository.
 
