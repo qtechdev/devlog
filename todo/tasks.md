@@ -22,7 +22,7 @@ Progress
 - bmi
 - qsi
 - qfio
-- qxdg
+- ~qxdg~
 - weights
 
 ## changelogs
