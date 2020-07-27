@@ -13,3 +13,9 @@ of the puzzle is to uncover hidden information that leads to the next puzzle.
 
 As the game progresses the puzzle tend to become more difficult (or they may
 require more obscure knowledge).
+
+### simple ciphers
+Some of the most well known ciphers are substitution ciphers; Each letter in
+the plain text is transformed into another by some reversable method.
+
+[substitution ciphers](ciphers/substitution)
