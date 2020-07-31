@@ -6,7 +6,8 @@ necessarily easy to crack.
 Each letter of the alphabet as shifted by a set number. This can be extended to
 include numbers and symbols. The ciphertext is decoded by reversing the shift.
 
-[caesar shift example](caesar.md)
+- [caesar shift example](caesar.md)
+- [caesar shift code][caesar code]
 
 ### Running Key
 The caesar shift can be improved by changing the shift value for each letter by
@@ -44,3 +45,6 @@ The substitutions do not have to be letters, they can be symbols or glyphs as
 is the case with the masonic cipher.
 
 [masonic cipher example](masonic.md)
+
+
+[caesar code]: <https://github.com/qtechdev/qcipher.caesar>
