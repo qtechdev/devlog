@@ -19,3 +19,10 @@ Some of the most well known ciphers are substitution ciphers; Each letter in
 the plain text is transformed into another by some reversable method.
 
 [substitution ciphers](ciphers/substitution)
+
+### steganography
+Any encrypted message is a fairly obvious sight, but it is possible to to hide
+a message within another medium. This has the advantage of making even the
+existence of the message unknown to those who are not looking for it.
+
+[steganography](steganography)

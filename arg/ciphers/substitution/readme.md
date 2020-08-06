@@ -47,4 +47,4 @@ is the case with the masonic cipher.
 [masonic cipher example](masonic.md)
 
 
-[caesar code]: <https://github.com/qtechdev/qcipher.caesar>
+[caesar code]: <https://github.com/qtechdev/qcaesar>
