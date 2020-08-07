@@ -28,8 +28,4 @@ embedding data within the image.
 This can even be done with other images, but at a significantly reduced image
 quality.
 
-[lsb code][]
-
 [whitespace on wikipedia]: <https://en.wikipedia.org/wiki/Whitespace_(programming_language)>
-
-[lsb code]: <https://github.com/qtechdev/qlsb>
