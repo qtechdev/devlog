@@ -1,4 +1,9 @@
 # Tasks
+## opengl faults
+__(added: 2020-08-11, completed: ...)__
+something appears to have gone wrong with all of my opengl programs, only getting a blue screen
+could possibly be an issue with stb_image?
+
 ## readmes
 __(added: 2020-07-17, completed: ...)__
 
