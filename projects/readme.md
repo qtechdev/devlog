@@ -16,6 +16,7 @@ bmi                             | 2020-06-23  | stopped | demo for qsi
 weights                         | 2020-04-28  | stopped | demo for flags.h
 
 ## Status
+
 Status  | Description
 --------|------------
 ongoing | project is unlikely to reach an end
