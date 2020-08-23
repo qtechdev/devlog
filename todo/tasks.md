@@ -1,4 +1,12 @@
 # Tasks
+## library installs and versioning
+__(added: 2020-08-23, completed: ...)__
+The way the library install in makefiles are handle need to be updated.
+The `soname` should include the major version of the library, and the bare symlink
+should be created with `ln -s`, pointing to the freshly insatlled version.
+I should also make sure to create a minimum viable product for the 1.0 release,
+and update the version numbers properly.
+
 ## opengl faults
 __(added: 2020-08-11, completed: ...)__
 something appears to have gone wrong with all of my opengl programs, only getting a blue screen
