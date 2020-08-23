@@ -1,4 +1,12 @@
 # Tasks
+
+## opengl faults
+__(added: 2020-08-11, completed: ...)__
+something appears to have gone wrong with all of my opengl programs, only getting a blue screen
+could possibly be an issue with stb_image?
+
+[Task progress table.](./task_table.md)
+
 ## library installs and versioning
 __(added: 2020-08-23, completed: ...)__
 The way the library install in makefiles are handle need to be updated.
@@ -6,11 +14,6 @@ The `soname` should include the major version of the library, and the bare symli
 should be created with `ln -s`, pointing to the freshly insatlled version.
 I should also make sure to create a minimum viable product for the 1.0 release,
 and update the version numbers properly.
-
-## opengl faults
-__(added: 2020-08-11, completed: ...)__
-something appears to have gone wrong with all of my opengl programs, only getting a blue screen
-could possibly be an issue with stb_image?
 
 ## readmes
 __(added: 2020-07-17, completed: ...)__
@@ -20,23 +23,6 @@ I should add readmes with a unified format:
 - short description
 - basic example
 - dependencies
-
-Progress
-- ~qtechdev.github.io~
-- cellular
-- testing_modules
-- module_greeter
-- opengl
-- qch_meta
-- qchip
-- qch_vm
-- qch_asm
-- qch_dis
-- bmi
-- qsi
-- qfio
-- ~qxdg~
-- weights
 
 ## changelogs
 __(added: 2020-07-17, completed: ...)__
