@@ -71,3 +71,13 @@ I have also written an member function to enable casting from my class to the
 underlying `WINDOW *` for drop-in use in ncurses functions. Again, this is
 probably unnecessary and for such a simple data structure I could have probably
 managed the pointer manually.
+
+## destruction order
+In addition to the `WINDOW *` wrapper, a second class is required to ensure
+`endwin` is only called **after** all the `window` destructors have been
+executed.  
+This works as the destructor for each object is called (as the leave scope) in
+the reverse order than that in which they were created. As long as the main
+ncurses wrapper is constructed before any of the windows (which is will be as it
+is also responsible for calling `initscr`) then it will also be the last to be
+destructed.
